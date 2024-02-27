@@ -1,0 +1,19 @@
+{
+  "name": "node_ci",
+  "version": "0.0.1",
+  "description": "node, continous integration, CI/CD, linting",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Building...",
+    "test": "echo Running test..."
+  },
+  "keywords": [
+    "node",
+    "continous",
+    "integration",
+    "CI/CD",
+    "linting"
+  ],
+  "author": "",
+  "license": "MIT"
+}
