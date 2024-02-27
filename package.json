@@ -15,5 +15,8 @@
     "linting"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
 }
